@@ -1,0 +1,390 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ventas>
+  <venta>
+    <idProducto>P005</idProducto>
+    <Descripcion>Manzana Roja</Descripcion>
+    <Categoria>Frutas</Categoria>
+    <Unidad>KG</Unidad>
+    <Cantidad>15</Cantidad>
+    <vrUnitario>$7,800</vrUnitario>
+    <VrDetalle>117000</VrDetalle>
+  </venta>
+  <venta>
+    <idProducto>P015</idProducto>
+    <Descripcion>Huevos x30</Descripcion>
+    <Categoria>Lacteos</Categoria>
+    <Unidad>PAQ</Unidad>
+    <Cantidad>20</Cantidad>
+    <vrUnitario>17800</vrUnitario>
+    <VrDetalle>356500</VrDetalle>
+  </venta>
+  <venta>
+    <idProducto>P014</idProducto>
+    <Descripcion>Papel Higienico x4</Descripcion>
+    <Categoria>Aseo</Categoria>
+    <Unidad>PAQ</Unidad>
+    <Cantidad>8</Cantidad>
+    <vrUnitario>7400</vrUnitario>
+    <VrDetalle>59200</VrDetalle>
+  </venta>
+  <venta>
+    <idProducto>P009</idProducto>
+    <Descripcion>Cafe Molido 250g</Descripcion>
+    <Categoria>Cafe</Categoria>
+    <Unidad>UND</Unidad>
+    <Cantidad>7</Cantidad>
+    <vrUnitario>8700</vrUnitario>
+    <VrDetalle>60900</VrDetalle>
+  </venta>
+  <venta>
+    <idProducto>P006</idProducto>
+    <Descripcion>Banano</Descripcion>
+    <Categoria>Frutas</Categoria>
+    <Unidad>KG</Unidad>
+    <Cantidad>1</Cantidad>
+    <vrUnitario>3200</vrUnitario>
+    <VrDetalle>3200</VrDetalle>
+  </venta>
+  <venta>
+    <idProducto>P006</idProducto>
+    <Descripcion>Banano</Descripcion>
+    <Categoria>Frutas</Categoria>
+    <Unidad>KG</Unidad>
+    <Cantidad>14</Cantidad>
+    <vrUnitario>3200</vrUnitario>
+    <VrDetalle>44800</VrDetalle>
+  </venta>
+  <venta>
+    <idProducto>P004</idProducto>
+    <Descripcion>Queso Campesino</Descripcion>
+    <Categoria>Lacteos</Categoria>
+    <Unidad>KG</Unidad>
+    <Cantidad>13</Cantidad>
+    <vrUnitario>18500</vrUnitario>
+    <VrDetalle>241000</VrDetalle>
+  </venta>
+  <venta>
+    <idProducto>P004</idProducto>
+    <Descripcion>Queso Campesino</Descripcion>
+    <Categoria>Lacteos</Categoria>
+    <Unidad>KG</Unidad>
+    <Cantidad>15</Cantidad>
+    <vrUnitario>18500</vrUnitario>
+    <VrDetalle>277500</VrDetalle>
+  </venta>
+  <venta>
+    <idProducto>P011</idProducto>
+    <Descripcion>Gaseosa 1.5L</Descripcion>
+    <Categoria>Bebidas</Categoria>
+    <Unidad>UND</Unidad>
+    <Cantidad>9</Cantidad>
+    <vrUnitario />
+    <VrDetalle>50400</VrDetalle>
+  </venta>
+  <venta>
+    <idProducto>P014</idProducto>
+    <Descripcion>Papel Higienico x4</Descripcion>
+    <Categoria>Aseo</Categoria>
+    <Unidad>kilo</Unidad>
+    <Cantidad>3</Cantidad>
+    <vrUnitario>7400</vrUnitario>
+    <VrDetalle>22200</VrDetalle>
+  </venta>
+  <venta>
+    <idProducto>P005</idProducto>
+    <Descripcion>Manzana Roja</Descripcion>
+    <Categoria>Frutas</Categoria>
+    <Unidad>KG</Unidad>
+    <Cantidad>11</Cantidad>
+    <vrUnitario>7800</vrUnitario>
+    <VrDetalle>85800</VrDetalle>
+  </venta>
+  <venta>
+    <idProducto>P008</idProducto>
+    <Descripcion>Jabon de Barra</Descripcion>
+    <Categoria>Aseo</Categoria>
+    <Unidad>UND</Unidad>
+    <Cantidad>11</Cantidad>
+    <vrUnitario>1800</vrUnitario>
+    <VrDetalle>19800</VrDetalle>
+  </venta>
+  <venta>
+    <idProducto>P006</idProducto>
+    <Descripcion>Banano</Descripcion>
+    <Categoria>Frutas</Categoria>
+    <Unidad>KG</Unidad>
+    <Cantidad>9</Cantidad>
+    <vrUnitario>3200</vrUnitario>
+    <VrDetalle>28800</VrDetalle>
+  </venta>
+  <venta>
+    <idProducto>P011</idProducto>
+    <Descripcion>Gaseosa 1.5L</Descripcion>
+    <Categoria>Bebidas</Categoria>
+    <Unidad>UND</Unidad>
+    <Cantidad>15</Cantidad>
+    <vrUnitario>5600</vrUnitario>
+    <VrDetalle>84000</VrDetalle>
+  </venta>
+  <venta>
+    <idProducto>P011</idProducto>
+    <Descripcion>Gaseosa 1.5L</Descripcion>
+    <Categoria>Bebidas</Categoria>
+    <Unidad>UND</Unidad>
+    <Cantidad>13</Cantidad>
+    <vrUnitario>5600</vrUnitario>
+    <VrDetalle>72800</VrDetalle>
+  </venta>
+  <venta>
+    <idProducto>P008</idProducto>
+    <Descripcion>Jabon de Barra</Descripcion>
+    <Categoria>Aseo</Categoria>
+    <Unidad>UND</Unidad>
+    <Cantidad>1</Cantidad>
+    <vrUnitario>$1,800</vrUnitario>
+    <VrDetalle>1800</VrDetalle>
+  </venta>
+  <venta>
+    <idProducto>P012</idProducto>
+    <Descripcion>Pollo Entero</Descripcion>
+    <Categoria>Carnes</Categoria>
+    <Unidad>KG</Unidad>
+    <Cantidad>16</Cantidad>
+    <vrUnitario>11500</vrUnitario>
+    <VrDetalle>184000</VrDetalle>
+  </venta>
+  <venta>
+    <idProducto>P008</idProducto>
+    <Descripcion>Jabon de Barra</Descripcion>
+    <Categoria>Aseo</Categoria>
+    <Unidad>UND</Unidad>
+    <Cantidad>14</Cantidad>
+    <vrUnitario />
+    <VrDetalle>25200</VrDetalle>
+  </venta>
+  <venta>
+    <idProducto>P010</idProducto>
+    <Descripcion />
+    <Categoria>Bebidas</Categoria>
+    <Unidad>UND</Unidad>
+    <Cantidad>18</Cantidad>
+    <vrUnitario>2000</vrUnitario>
+    <VrDetalle>36000</VrDetalle>
+  </venta>
+  <venta>
+    <idProducto>P007</idProducto>
+    <Descripcion>Detergente 1kg</Descripcion>
+    <Categoria>Aseo</Categoria>
+    <Unidad>UND</Unidad>
+    <Cantidad>6</Cantidad>
+    <vrUnitario>9900</vrUnitario>
+    <VrDetalle>59400</VrDetalle>
+  </venta>
+  <venta>
+    <idProducto>P014</idProducto>
+    <Descripcion>Papel Higienico x4</Descripcion>
+    <Categoria>Aseo</Categoria>
+    <Unidad>PAQ</Unidad>
+    <Cantidad>19</Cantidad>
+    <vrUnitario>7400</vrUnitario>
+    <VrDetalle>140600</VrDetalle>
+  </venta>
+  <venta>
+    <idProducto>P011</idProducto>
+    <Descripcion>Gaseosa 1.5L</Descripcion>
+    <Categoria>Bebidas</Categoria>
+    <Unidad>UND</Unidad>
+    <Cantidad>13</Cantidad>
+    <vrUnitario>5600</vrUnitario>
+    <VrDetalle>72800</VrDetalle>
+  </venta>
+  <venta>
+    <idProducto>P013</idProducto>
+    <Descripcion>Carne Molida</Descripcion>
+    <Categoria>Carnes</Categoria>
+    <Unidad>KG</Unidad>
+    <Cantidad>9</Cantidad>
+    <vrUnitario />
+    <VrDetalle>216000</VrDetalle>
+  </venta>
+  <venta>
+    <idProducto>P013</idProducto>
+    <Descripcion>Carne Molida</Descripcion>
+    <Categoria>Carnes</Categoria>
+    <Unidad>KG</Unidad>
+    <Cantidad>16</Cantidad>
+    <vrUnitario>24000</vrUnitario>
+    <VrDetalle>384000</VrDetalle>
+  </venta>
+  <venta>
+    <idProducto>P005</idProducto>
+    <Descripcion>Manzana Roja</Descripcion>
+    <Categoria>Frutas</Categoria>
+    <Unidad>KG</Unidad>
+    <Cantidad>abc</Cantidad>
+    <vrUnitario>7800</vrUnitario>
+    <VrDetalle>148200</VrDetalle>
+  </venta>
+  <venta>
+    <idProducto>P012</idProducto>
+    <Descripcion>Pollo Entero</Descripcion>
+    <Categoria>Carnes</Categoria>
+    <Unidad>KG</Unidad>
+    <Cantidad>17</Cantidad>
+    <vrUnitario>11500</vrUnitario>
+    <VrDetalle>195500</VrDetalle>
+  </venta>
+  <venta>
+    <idProducto>P012</idProducto>
+    <Descripcion>Pollo Entero</Descripcion>
+    <Categoria>Carnes</Categoria>
+    <Unidad>KG</Unidad>
+    <Cantidad>9</Cantidad>
+    <vrUnitario>11500</vrUnitario>
+    <VrDetalle>103500</VrDetalle>
+  </venta>
+  <venta>
+    <idProducto>P013</idProducto>
+    <Descripcion>Carne Molida</Descripcion>
+    <Categoria>Carnes</Categoria>
+    <Unidad>KG</Unidad>
+    <Cantidad>8</Cantidad>
+    <vrUnitario>24000</vrUnitario>
+    <VrDetalle>192000</VrDetalle>
+  </venta>
+  <venta>
+    <idProducto>P012</idProducto>
+    <Descripcion>Pollo Entero</Descripcion>
+    <Categoria>Carnes</Categoria>
+    <Unidad>KG</Unidad>
+    <Cantidad>5</Cantidad>
+    <vrUnitario>11500</vrUnitario>
+    <VrDetalle>57500</VrDetalle>
+  </venta>
+  <venta>
+    <idProducto>P011</idProducto>
+    <Descripcion>Gaseosa 1.5L</Descripcion>
+    <Categoria>Bebidas</Categoria>
+    <Unidad>und</Unidad>
+    <Cantidad>16</Cantidad>
+    <vrUnitario>5600</vrUnitario>
+    <VrDetalle>89600</VrDetalle>
+  </venta>
+  <venta>
+    <idProducto>P003</idProducto>
+    <Descripcion>Leche Entera 1L</Descripcion>
+    <Categoria>Lacteos</Categoria>
+    <Unidad>UND</Unidad>
+    <Cantidad>16</Cantidad>
+    <vrUnitario />
+    <VrDetalle>67200</VrDetalle>
+  </venta>
+  <venta>
+    <idProducto>P006</idProducto>
+    <Descripcion>Banano</Descripcion>
+    <Categoria>  frutas </Categoria>
+    <Unidad>KG</Unidad>
+    <Cantidad>16</Cantidad>
+    <vrUnitario>3200</vrUnitario>
+    <VrDetalle>51200</VrDetalle>
+  </venta>
+  <venta>
+    <idProducto>P012</idProducto>
+    <Descripcion>Pollo Entero</Descripcion>
+    <Categoria>Carnes</Categoria>
+    <Unidad>KG</Unidad>
+    <Cantidad>14</Cantidad>
+    <vrUnitario>11500</vrUnitario>
+    <VrDetalle>161500</VrDetalle>
+  </venta>
+  <venta>
+    <idProducto>P004</idProducto>
+    <Descripcion>Queso Campesino</Descripcion>
+    <Categoria>Lacteos</Categoria>
+    <Unidad>KG</Unidad>
+    <Cantidad>12</Cantidad>
+    <vrUnitario>18500</vrUnitario>
+    <VrDetalle>222000</VrDetalle>
+  </venta>
+  <venta>
+    <idProducto>P008</idProducto>
+    <Descripcion>Jabon de Barra</Descripcion>
+    <Categoria>Aseo</Categoria>
+    <Unidad>UND</Unidad>
+    <Cantidad>14</Cantidad>
+    <vrUnitario />
+    <VrDetalle>25200</VrDetalle>
+  </venta>
+  <venta>
+    <idProducto>P008</idProducto>
+    <Descripcion>Jabon de Barra</Descripcion>
+    <Categoria>Aseo</Categoria>
+    <Unidad>UND</Unidad>
+    <Cantidad>18</Cantidad>
+    <vrUnitario>1800</vrUnitario>
+    <VrDetalle>32400</VrDetalle>
+  </venta>
+  <venta>
+    <idProducto>P009</idProducto>
+    <Descripcion>Cafe Molido 250g</Descripcion>
+    <Categoria>Cafe</Categoria>
+    <Unidad>UND</Unidad>
+    <Cantidad>1</Cantidad>
+    <vrUnitario>8700</vrUnitario>
+    <VrDetalle>8700</VrDetalle>
+  </venta>
+  <venta>
+    <idProducto>P002</idProducto>
+    <Descripcion>Aceite Girasol 1L</Descripcion>
+    <Categoria>Aceites</Categoria>
+    <Unidad>UND</Unidad>
+    <Cantidad>10</Cantidad>
+    <vrUnitario>12900</vrUnitario>
+    <VrDetalle>129000</VrDetalle>
+  </venta>
+  <venta>
+    <idProducto>P010</idProducto>
+    <Descripcion>Agua Botella 600ml</Descripcion>
+    <Categoria>Bebidas</Categoria>
+    <Unidad>UND</Unidad>
+    <Cantidad>20</Cantidad>
+    <vrUnitario>2000</vrUnitario>
+    <VrDetalle>40000</VrDetalle>
+  </venta>
+  <venta>
+    <idProducto>P010</idProducto>
+    <Descripcion />
+    <Categoria>Bebidas</Categoria>
+    <Unidad>UND</Unidad>
+    <Cantidad>18</Cantidad>
+    <vrUnitario>2000</vrUnitario>
+    <VrDetalle>36000</VrDetalle>
+  </venta>
+  <venta>
+    <idProducto>P009</idProducto>
+    <Descripcion>Cafe Molido 250g</Descripcion>
+    <Categoria>Cafe</Categoria>
+    <Unidad>UND</Unidad>
+    <Cantidad>17</Cantidad>
+    <vrUnitario>8700</vrUnitario>
+    <VrDetalle>147900</VrDetalle>
+  </venta>
+  <venta>
+    <idProducto>P002</idProducto>
+    <Descripcion>Aceite Girasol 1L</Descripcion>
+    <Categoria>Aceites</Categoria>
+    <Unidad>UND</Unidad>
+    <Cantidad>8</Cantidad>
+    <vrUnitario>12900</vrUnitario>
+    <VrDetalle>102900</VrDetalle>
+  </venta>
+  <venta>
+    <idProducto>P012</idProducto>
+    <Descripcion>Pollo Entero</Descripcion>
+    <Categoria>Carnes</Categoria>
+    <Unidad>KG</Unidad>
+    <Cantidad>8</Cantidad>
+    <vrUnitario>11500</vrUnitario>
+    <VrDetalle>92000</VrDetalle>
+  </venta>
+</ventas>

@@ -1,0 +1,60 @@
+idProducto	Descripcion	Categoria	Unidad	Cantidad	vrUnitario	VrDetalle
+P015	Huevos x30	Lacteos	PAQ	19	17800	338200
+	Papel Higienico x4	Aseo	PAQ	18	7400	133200
+P003	Leche Entera 1L	Lacteos	UND	12	4200	50400
+	Huevos x30	Lacteos	PAQ	4	17800	71200
+P002	Aceite Girasol 1L	Aceites	UND	3	12900	39700
+P005	Manzana Roja	Frutas	KG	2	7800	15600
+P004	Queso Campesino	Lacteos	KG	9	18500	166500
+P015	Huevos x30	Lacteos	PAQ	19	17800	338200
+P007	Detergente 1kg	Aseo	UND	4	9900	39600
+P002	Aceite Girasol 1L	Aceites	UND	20	12900	257700
+P001	Arroz Diana 500g	Granos	UND	15	2500	37500
+P012		Carnes	KG	10	11500	115000
+P001	Arroz Diana 500g	Granos	UND	18	2500	45000
+P010	Agua Botella 600ml	Bebidas	UND	17	2000	34000
+	Papel Higienico x4	Aseo	PAQ	9	7400	66600
+P010	Agua Botella 600ml	Bebidas	UND	17	2000	34000
+P002	Aceite Girasol 1L	Aceites	UND	8	12900	103200
+	Queso Campesino	Lacteos	KG	19	18500	351500
+P008	Jabon de Barra	Aseo	UND	11	1800	19800
+P015	Huevos x30	Lacteos	PAQ	3	17800	53400
+P010		Bebidas	UND	2	2000	4000
+P009	Cafe Molido 250g	Cafe	UND	9	8700	78300
+P015		Lacteos	PAQ	3	17800	53400
+P009	Cafe Molido 250g	Cafe	UND	16	8700	139200
+P011	Gaseosa 1.5L	Bebidas	UND	10	5600	56000
+P006	Banano	Frutas	KG	9	3200	28800
+P009	Cafe Molido 250g	Cafe	UND	14	8700	121800
+P005		Frutas	KG	4	7800	31200
+P009	Cafe Molido 250g	Cafe	UND	2	8700	17400
+P004	Queso Campesino	Lacteos	KG	11	18500	203500
+P005	Manzana Roja	Frutas	KG	4		31200
+P007	Detergente 1kg	Aseo	UND	5	9900	49500
+	Banano	Frutas	KG	5	3200	16000
+P005	Manzana Roja	Frutas	KG	0	7800	156000
+P014	Papel Higienico x4	  aseo 	PAQ	6	7400	44400
+P002	Aceite Girasol 1L	Aceites	UND	14	-100	180600
+P003	Leche Entera 1L	Lacteos	UND	15	4200	63000
+P015	Huevos x30	Lacteos	und	5	17800	89000
+P003	Leche Entera 1L	Lacteos	UND	9	$4,200	37800
+P004	Queso Campesino	Lacteos	KG	11	18500	203500
+P015	Huevos x30	  lacteos 	PAQ	8	17800	142400
+P009	Cafe Molido 250g	Cafe	UND	1	8700	8700
+P004	Queso Campesino	  lacteos 	KG	9	18500	166500
+P007	Detergente 1kg	Aseo	UND	19	9900	189100
+P012	Pollo Entero	Carnes	KG	18	11500	207000
+	Agua Botella 600ml	Bebidas	UND	19	2000	38000
+P001	Arroz Diana 500g	Granos	unid.	1	2500	2500
+P006	Banano	Frutas	KG	10	3200	32000
+P004	Queso Campesino	Lacteos	KG	9	18500	166500
+P003	Leche Entera 1L	Lacteos	UND	15	4200	63000
+P009	Cafe Molido 250g	Cafe	UND	9	8700	78300
+	Papel Higienico x4	Aseo	PAQ	12	7400	88800
+P015	Huevos x30	Lacteos	PAQ	5	17800	89000
+P002	Aceite Girasol 1L	Aceites	UND	3	12900	38700
+P011	Gaseosa 1.5L	Bebidas	UND	9	-100	50400
+P010		Bebidas	UND	3	2000	6000
+P010	Agua Botella 600ml	Bebidas	UND	18	2000	36000
+P002	Aceite Girasol 1L	Aceites	UND	14	-100	180600
+P009	Cafe Molido 250g	Cafe	UND	7	8700	60900

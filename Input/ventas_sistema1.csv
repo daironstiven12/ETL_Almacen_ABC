@@ -1,0 +1,76 @@
+idProducto,Descripcion,Categoria,Unidad,Cantidad,vrUnitario,VrDetalle
+P007,Detergente 1kg,Aseo,UND,9,9900,89100
+P014,Papel Higienico x4,Aseo,PAQ,2,7400,14800
+P004,Queso Campesino,Lacteos,KG,,18500,148000
+P012,,Carnes,KG,18,11500,207000
+P002,Aceite Girasol 1L,Aceites,UND,3,,38700
+P012,Pollo Entero,Carnes,KG,14,11500,161000
+P013,Carne Molida,Carnes,KG,11,24000,265000
+P009,Cafe Molido 250g,Cafe,UND,16,8700,139200
+P006,Banano,Frutas,KG,7,3200,22400
+P003,Leche Entera 1L,Lacteos,UND,12,4200,51400
+P007,Detergente 1kg,Aseo,UND,12,"$9,900",118800
+P012,Pollo Entero,Carnes,KG,3,11500,34500
+P008,Jabon de Barra,Aseo,UND,12,1800,21600
+P013,Carne Molida,Carnes,KG,2,24000,48000
+P010,Agua Botella 600ml,  bebidas ,UND,9,2000,18000
+P001,Arroz Diana 500g,Granos,UND,9,2500,22500
+P003,Leche Entera 1L,Lacteos,UND,7,4200,29400
+P004,Queso Campesino,Lacteos,KG,16,18500,296000
+P004,Queso Campesino,Lacteos,unid.,11,18500,203500
+P004,Queso Campesino,Lacteos,KG,5,18500,92500
+P012,Pollo Entero,Carnes,KG,3,"$11,500",34500
+P007,Detergente 1kg,Aseo,UND,4,9900,39600
+P012,,Carnes,KG,18,11500,207000
+P006,Banano,Frutas,KG,12,3200,38400
+P007,Detergente 1kg,Aseo,UND,9,9900,89100
+P009,Cafe Molido 250g,Cafe,UND,20,8700,175000
+P005,Manzana Roja,  frutas ,KG,1,7800,7800
+P004,Queso Campesino,Lacteos,KG,2,18500,37000
+P014,Papel Higienico x4,Aseo,PAQ,4,7400,29600
+P002,Aceite Girasol 1L,Aceites,UND,7,12900,90300
+P007,,Aseo,UND,15,9900,148500
+P001,Arroz Diana 500g,Granos,UND,8,,20000
+P009,Cafe Molido 250g,Cafe,UND,8,8700,69600
+P013,Carne Molida,Carnes,KG,2,24000,48000
+P007,Detergente 1kg,Aseo,UND,9,9900,89100
+P015,Huevos x30,Lacteos,PAQ,18,17800,320400
+P012,Pollo Entero,Carnes,KG,15,11500,172500
+P007,Detergente 1kg,Aseo,UND,-3,9900,188100
+P015,Huevos x30,Lacteos,PAQ,12,17800,213300
+P010,Agua Botella 600ml,Bebidas,UND,7,2000,14000
+P009,Cafe Molido 250g,Cafe,UND,4,8700,34800
+P001,Arroz Diana 500g,Granos,UND,18,2500,45000
+P010,Agua Botella 600ml,Bebidas,UND,7,2000,14000
+P002,Aceite Girasol 1L,Aceites,UND,19,"$12,900",245100
+P011,Gaseosa 1.5L,Bebidas,UND,4,5600,22400
+P003,Leche Entera 1L,Lacteos,UND,6,4200,25200
+P011,Gaseosa 1.5L,Bebidas,UND,9,5600,50400
+P003,Leche Entera 1L,Lacteos,UND,4,4200,16800
+P014,Papel Higienico x4,Aseo,PAQ,4,7400,29600
+P002,Aceite Girasol 1L,Aceites,UND,8,12900,102900
+P003,,Lacteos,UND,9,4200,37800
+P011,Gaseosa 1.5L,Bebidas,UND,18,5600,100800
+P012,Pollo Entero,Carnes,KG,19,11500,218500
+P005,Manzana Roja,Frutas,KG,20,7800,156000
+P006,Banano,Frutas,KG,9,3200,28800
+P004,Queso Campesino,Lacteos,KG,18,18500,333000
+P015,Huevos x30,Lacteos,PAQ,13,17800,231400
+P004,Queso Campesino,Lacteos,KG,8,18500,148000
+,Aceite Girasol 1L,Aceites,UND,18,12900,232200
+P013,Carne Molida,Carnes,KG,abc,24000,240000
+P009,Cafe Molido 250g,Cafe,UND,9,8700,78300
+P002,Aceite Girasol 1L,Aceites,UND,2,12900,25800
+,Carne Molida,Carnes,KG,6,24000,144000
+P008,Jabon de Barra,Aseo,UND,19,,34200
+P010,Agua Botella 600ml,Bebidas,UND,6,2000,12000
+P013,Carne Molida,Carnes,KG,11,24000,264000
+P001,Arroz Diana 500g,Granos,UND,3,2500,7500
+P007,Detergente 1kg,Aseo,UND,8,-100,79200
+P007,Detergente 1kg,Aseo,UND,2,9900,19800
+P003,Leche Entera 1L,Lacteos,UND,abc,4200,33600
+P007,Detergente 1kg,Aseo,UND,9,9900,89100
+P015,,Lacteos,PAQ,19,17800,338200
+P003,,Lacteos,UND,15,4200,63000
+P015,Huevos x30,Lacteos,PAQ,abc,17800,195800
+P007,Detergente 1kg,Aseo,UND,8,-100,79200

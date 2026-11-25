@@ -1,0 +1,434 @@
+[
+  {
+    "idProducto": "P004",
+    "Descripcion": "Queso Campesino",
+    "Categoria": "Lacteos",
+    "Unidad": "KG",
+    "Cantidad": 13,
+    "vrUnitario": "",
+    "VrDetalle": 240500
+  },
+  {
+    "idProducto": "P008",
+    "Descripcion": "Jabon de Barra",
+    "Categoria": "Aseo",
+    "Unidad": "UND",
+    "Cantidad": 9,
+    "vrUnitario": 1800,
+    "VrDetalle": 16200
+  },
+  {
+    "idProducto": "P011",
+    "Descripcion": "Gaseosa 1.5L",
+    "Categoria": "Bebidas",
+    "Unidad": "UND",
+    "Cantidad": 17,
+    "vrUnitario": 5600,
+    "VrDetalle": 95200
+  },
+  {
+    "idProducto": "P013",
+    "Descripcion": "Carne Molida",
+    "Categoria": "Carnes",
+    "Unidad": "KG",
+    "Cantidad": 8,
+    "vrUnitario": 24000,
+    "VrDetalle": 192000
+  },
+  {
+    "idProducto": "P015",
+    "Descripcion": "Huevos x30",
+    "Categoria": "Lacteos",
+    "Unidad": "PAQ",
+    "Cantidad": 18,
+    "vrUnitario": 17800,
+    "VrDetalle": 320400
+  },
+  {
+    "idProducto": "P002",
+    "Descripcion": "Aceite Girasol 1L",
+    "Categoria": "Aceites",
+    "Unidad": "UND",
+    "Cantidad": 14,
+    "vrUnitario": 12900,
+    "VrDetalle": 180600
+  },
+  {
+    "idProducto": "P008",
+    "Descripcion": "Jabon de Barra",
+    "Categoria": "Aseo",
+    "Unidad": "UND",
+    "Cantidad": 20,
+    "vrUnitario": 1800,
+    "VrDetalle": 36000
+  },
+  {
+    "idProducto": "P013",
+    "Descripcion": "Carne Molida",
+    "Categoria": "Carnes",
+    "Unidad": "KG",
+    "Cantidad": 17,
+    "vrUnitario": 24000,
+    "VrDetalle": 408000
+  },
+  {
+    "idProducto": "P009",
+    "Descripcion": "Cafe Molido 250g",
+    "Categoria": "Cafe",
+    "Unidad": "UND",
+    "Cantidad": "0",
+    "vrUnitario": 8700,
+    "VrDetalle": 130500
+  },
+  {
+    "idProducto": "P014",
+    "Descripcion": "Papel Higienico x4",
+    "Categoria": "Aseo",
+    "Unidad": "PAQ",
+    "Cantidad": 3,
+    "vrUnitario": 7400,
+    "VrDetalle": 22200
+  },
+  {
+    "idProducto": "P015",
+    "Descripcion": "Huevos x30",
+    "Categoria": "Lacteos",
+    "Unidad": "PAQ",
+    "Cantidad": 4,
+    "vrUnitario": 17800,
+    "VrDetalle": 71200
+  },
+  {
+    "idProducto": "P002",
+    "Descripcion": "Aceite Girasol 1L",
+    "Categoria": "Aceites",
+    "Unidad": "UND",
+    "Cantidad": 5,
+    "vrUnitario": "$12,900",
+    "VrDetalle": 64500
+  },
+  {
+    "idProducto": "P012",
+    "Descripcion": "Pollo Entero",
+    "Categoria": "Carnes",
+    "Unidad": "KG",
+    "Cantidad": 7,
+    "vrUnitario": 11500,
+    "VrDetalle": 80500
+  },
+  {
+    "idProducto": "P008",
+    "Descripcion": "Jabon de Barra",
+    "Categoria": "Aseo",
+    "Unidad": "UND",
+    "Cantidad": 2,
+    "vrUnitario": 1800,
+    "VrDetalle": 3600
+  },
+  {
+    "idProducto": "P008",
+    "Descripcion": "Jabon de Barra",
+    "Categoria": "Aseo",
+    "Unidad": "UND",
+    "Cantidad": 13,
+    "vrUnitario": 1800,
+    "VrDetalle": 23400
+  },
+  {
+    "idProducto": "P004",
+    "Descripcion": "Queso Campesino",
+    "Categoria": "Lacteos",
+    "Unidad": "KG",
+    "Cantidad": 9,
+    "vrUnitario": 18500,
+    "VrDetalle": 166500
+  },
+  {
+    "idProducto": "P013",
+    "Descripcion": "Carne Molida",
+    "Categoria": "  carnes ",
+    "Unidad": "KG",
+    "Cantidad": 17,
+    "vrUnitario": 24000,
+    "VrDetalle": 408000
+  },
+  {
+    "idProducto": "P012",
+    "Descripcion": "Pollo Entero",
+    "Categoria": "Carnes",
+    "Unidad": "KG",
+    "Cantidad": 1,
+    "vrUnitario": 11500,
+    "VrDetalle": 11500
+  },
+  {
+    "idProducto": null,
+    "Descripcion": "Huevos x30",
+    "Categoria": "Lacteos",
+    "Unidad": "PAQ",
+    "Cantidad": 19,
+    "vrUnitario": 17800,
+    "VrDetalle": 338200
+  },
+  {
+    "idProducto": "P003",
+    "Descripcion": "Leche Entera 1L",
+    "Categoria": "Lacteos",
+    "Unidad": "UND",
+    "Cantidad": 8,
+    "vrUnitario": 4200,
+    "VrDetalle": 33600
+  },
+  {
+    "idProducto": "P010",
+    "Descripcion": "Agua Botella 600ml",
+    "Categoria": "Bebidas",
+    "Unidad": "UND",
+    "Cantidad": 17,
+    "vrUnitario": 2000,
+    "VrDetalle": 34000
+  },
+  {
+    "idProducto": "P008",
+    "Descripcion": "Jabon de Barra",
+    "Categoria": "Aseo",
+    "Unidad": "UND",
+    "Cantidad": 8,
+    "vrUnitario": 1800,
+    "VrDetalle": 14400
+  },
+  {
+    "idProducto": "P008",
+    "Descripcion": "Jabon de Barra",
+    "Categoria": "Aseo",
+    "Unidad": "UND",
+    "Cantidad": 14,
+    "vrUnitario": 1800,
+    "VrDetalle": 25200
+  },
+  {
+    "idProducto": "P006",
+    "Descripcion": "Banano",
+    "Categoria": "Frutas",
+    "Unidad": "KG",
+    "Cantidad": 11,
+    "vrUnitario": "-100",
+    "VrDetalle": 35200
+  },
+  {
+    "idProducto": "P008",
+    "Descripcion": "Jabon de Barra",
+    "Categoria": "Aseo",
+    "Unidad": "UND",
+    "Cantidad": 6,
+    "vrUnitario": 1800,
+    "VrDetalle": 10800
+  },
+  {
+    "idProducto": "P014",
+    "Descripcion": "Papel Higienico x4",
+    "Categoria": "Aseo",
+    "Unidad": "PAQ",
+    "Cantidad": 9,
+    "vrUnitario": 7400,
+    "VrDetalle": 66300
+  },
+  {
+    "idProducto": "P008",
+    "Descripcion": "Jabon de Barra",
+    "Categoria": "Aseo",
+    "Unidad": "UND",
+    "Cantidad": 2,
+    "vrUnitario": 1800,
+    "VrDetalle": 3600
+  },
+  {
+    "idProducto": "P007",
+    "Descripcion": "Detergente 1kg",
+    "Categoria": "Aseo",
+    "Unidad": "UND",
+    "Cantidad": 18,
+    "vrUnitario": 9900,
+    "VrDetalle": 178200
+  },
+  {
+    "idProducto": "P009",
+    "Descripcion": "Cafe Molido 250g",
+    "Categoria": "Cafe",
+    "Unidad": "UND",
+    "Cantidad": 20,
+    "vrUnitario": 8700,
+    "VrDetalle": 174000
+  },
+  {
+    "idProducto": "P007",
+    "Descripcion": "Detergente 1kg",
+    "Categoria": "Aseo",
+    "Unidad": "UND",
+    "Cantidad": 11,
+    "vrUnitario": 9900,
+    "VrDetalle": 108900
+  },
+  {
+    "idProducto": "P007",
+    "Descripcion": "Detergente 1kg",
+    "Categoria": "Aseo",
+    "Unidad": "UND",
+    "Cantidad": 11,
+    "vrUnitario": 9900,
+    "VrDetalle": 108900
+  },
+  {
+    "idProducto": "P014",
+    "Descripcion": "Papel Higienico x4",
+    "Categoria": "Aseo",
+    "Unidad": "PAQ",
+    "Cantidad": 3,
+    "vrUnitario": 7400,
+    "VrDetalle": 22200
+  },
+  {
+    "idProducto": "P004",
+    "Descripcion": "Queso Campesino",
+    "Categoria": "Lacteos",
+    "Unidad": "KG",
+    "Cantidad": 5,
+    "vrUnitario": 18500,
+    "VrDetalle": 92500
+  },
+  {
+    "idProducto": "P006",
+    "Descripcion": "Banano",
+    "Categoria": "Frutas",
+    "Unidad": "KG",
+    "Cantidad": 15,
+    "vrUnitario": 3200,
+    "VrDetalle": 48000
+  },
+  {
+    "idProducto": "P007",
+    "Descripcion": "",
+    "Categoria": "Aseo",
+    "Unidad": "UND",
+    "Cantidad": 2,
+    "vrUnitario": 9900,
+    "VrDetalle": 19800
+  },
+  {
+    "idProducto": "P007",
+    "Descripcion": "Detergente 1kg",
+    "Categoria": "Aseo",
+    "Unidad": "UND",
+    "Cantidad": 19,
+    "vrUnitario": 9900,
+    "VrDetalle": 188100
+  },
+  {
+    "idProducto": "P004",
+    "Descripcion": "Queso Campesino",
+    "Categoria": "Lacteos",
+    "Unidad": "KG",
+    "Cantidad": 6,
+    "vrUnitario": 18500,
+    "VrDetalle": 111000
+  },
+  {
+    "idProducto": "P012",
+    "Descripcion": "Pollo Entero",
+    "Categoria": "Carnes",
+    "Unidad": "KG",
+    "Cantidad": 16,
+    "vrUnitario": 11500,
+    "VrDetalle": 184000
+  },
+  {
+    "idProducto": "P013",
+    "Descripcion": "Carne Molida",
+    "Categoria": "Carnes",
+    "Unidad": "KG",
+    "Cantidad": 15,
+    "vrUnitario": 24000,
+    "VrDetalle": 360000
+  },
+  {
+    "idProducto": "P005",
+    "Descripcion": "Manzana Roja",
+    "Categoria": "Frutas",
+    "Unidad": "KG",
+    "Cantidad": "",
+    "vrUnitario": 7800,
+    "VrDetalle": 117000
+  },
+  {
+    "idProducto": "P009",
+    "Descripcion": "Cafe Molido 250g",
+    "Categoria": "Cafe",
+    "Unidad": "UND",
+    "Cantidad": 8,
+    "vrUnitario": "$8,700",
+    "VrDetalle": 69600
+  },
+  {
+    "idProducto": "P007",
+    "Descripcion": "Detergente 1kg",
+    "Categoria": "Aseo",
+    "Unidad": "UND",
+    "Cantidad": 5,
+    "vrUnitario": 9900,
+    "VrDetalle": 49500
+  },
+  {
+    "idProducto": "P011",
+    "Descripcion": "Gaseosa 1.5L",
+    "Categoria": "Bebidas",
+    "Unidad": "UND",
+    "Cantidad": 1,
+    "vrUnitario": 5600,
+    "VrDetalle": 5600
+  },
+  {
+    "idProducto": "P004",
+    "Descripcion": "Queso Campesino",
+    "Categoria": "Lacteos",
+    "Unidad": "KG",
+    "Cantidad": "abc",
+    "vrUnitario": 18500,
+    "VrDetalle": 259000
+  },
+  {
+    "idProducto": "P002",
+    "Descripcion": "Aceite Girasol 1L",
+    "Categoria": "Aceites",
+    "Unidad": "UND",
+    "Cantidad": 10,
+    "vrUnitario": "-100",
+    "VrDetalle": 129000
+  },
+  {
+    "idProducto": "P015",
+    "Descripcion": "Huevos x30",
+    "Categoria": "Lacteos",
+    "Unidad": "PAQ",
+    "Cantidad": 4,
+    "vrUnitario": 17800,
+    "VrDetalle": 71200
+  },
+  {
+    "idProducto": "P008",
+    "Descripcion": "Jabon de Barra",
+    "Categoria": "Aseo",
+    "Unidad": "UND",
+    "Cantidad": 5,
+    "vrUnitario": 1800,
+    "VrDetalle": 9000
+  },
+  {
+    "idProducto": "P013",
+    "Descripcion": "Carne Molida",
+    "Categoria": "Carnes",
+    "Unidad": "KG",
+    "Cantidad": 14,
+    "vrUnitario": 24000,
+    "VrDetalle": 336000
+  }
+]
