@@ -1,12 +1,24 @@
+# Entornos virtuales
 .venv/
 venv/
+env/
+
+# Caché y compilados de Python
 __pycache__/
 *.py[cod]
+*$py.class
+
+# Bases de datos SQLite y archivos temporales
 *.db
 *.sqlite
 *.sqlite3
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Salidas generadas en ejecuciones locales
 resultados.html
-.env
-.env.*
-.vscode/
-.idea/
+
+# Sistema y editor
+.DS_Store
+Thumbs.db
